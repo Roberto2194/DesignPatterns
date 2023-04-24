@@ -1,2 +1,2 @@
 # DesignPatterns
-Implementations of classic OOP Design Patterns in Java
+Clean implementations of classic Design Patterns
